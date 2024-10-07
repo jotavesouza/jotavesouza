@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![image](https://github.com/user-attachments/assets/f399d699-9489-412e-9673-4472930bb9f9)
+![image](https://github.com/user-attachments/assets/9db7d763-4556-48a2-9a45-7e2d20155f00)
+
 
 👨‍💻 Sobre mim
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas pelo Centro de Ensino Unificado de Brasília
