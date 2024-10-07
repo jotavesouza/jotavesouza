@@ -9,7 +9,7 @@
 - 🤔 Interessado em Backend
 -------------------------------
 🛠️ Tecnologias e Ferramentas
-- Linguagens: Java, JavaScript, CSS
+- Linguagens: Java, JavaScript, Python, CSS
 - Frameworks: Spring Boot
 - Ferramentas: Git
 - Banco de Dados: Relacionais
