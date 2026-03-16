@@ -4,8 +4,8 @@
 
 
 👨‍💻 Sobre mim
-- 🎓 Formando em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Brasília
-- 💼 Atualmente, estou trabalhando como Estagiário no Conselho Federal de Enfermagem
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Brasília
+- 💼 Atualmente, estou trabalhando como Terceirizado no Conselho Federal de Enfermagem
 - 🌱 Sempre aprendendo sobre novas tecnologias, atualmente focado em Java
 - 🤔 Interessado em Backend
 -------------------------------
